@@ -8,7 +8,7 @@ pwrsub <- subset(pwr, subset=(Date >= "2007-02-01" & Date <= "2007-02-02"))
 
 #make histogram
 hist(as.numeric(pwrsub$Global_active_power),main="Global Active Power",
-+ xlab="Global Active Power (kilowatts)", ylab="Frequency", col="Red")
+ xlab="Global Active Power (kilowatts)", ylab="Frequency", col="Red")
 
 #save png
 dev.copy(png, file="plot1.png", height=480, width=480)
