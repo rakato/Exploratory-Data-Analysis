@@ -1,4 +1,4 @@
-Exploratory-Data-Analysis-Electric-Power_Consumption
+Exploratory-Data-Analysis-Electric-Power-Consumption
 =========================
 
 ## Introduction
