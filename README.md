@@ -1,9 +1,9 @@
-Exploratory-Data-Analysis
+Exploratory-Data-Analysis-Electric-Power_Consumption
 =========================
 
 ## Introduction
 
-This assignment uses data from
+This analysis uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
 datasets. In particular, we will be using the "Individual household
